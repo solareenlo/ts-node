@@ -27,3 +27,7 @@ cd ts-node
 npm i
 npm run build && start
 ```
+
+# References
+- [TypeScriptでExpress.js開発するときにやることまとめ ](https://qiita.com/yuukive/items/012bdf1b9ff3881546b3)
+- [TypeScript + Node.js プロジェクトのはじめかた2019](https://qiita.com/notakaos/items/3bbd2293e2ff286d9f49)
